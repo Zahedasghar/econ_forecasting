@@ -4,7 +4,7 @@
     "href": "materials.html",
     "title": "Course Materials",
     "section": "",
-    "text": "Datasets\nSlides",
+    "text": "Datasets\nSlides\nIntroduction to Forecasting\nNonstationary\nARIMA\nUnit Root Testing\nSpurious Regression\nConsumption\nVAR\nVecAR\nCointegration",
     "crumbs": [
       "Materials"
     ]
@@ -14,17 +14,87 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations",
+    "text": "Schedule:\n\n\n\n\n\n\n\n\n\nMonday\nTuesday\n\n\n\n\n9:15-10:45\nRoom #8\nRoom #8",
     "crumbs": [
       "Schedule"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Course Title",
-    "section": "",
-    "text": "Course info & details here",
+    "objectID": "index.html#course-overview-and-learning-outcomes",
+    "href": "index.html#course-overview-and-learning-outcomes",
+    "title": "Econometric Forecasting",
+    "section": "Course overview and learning outcomes",
+    "text": "Course overview and learning outcomes\nResearch in economics, business and finance requires extensive use of sophisticated and refined quantitative skills. In this course you will be introduced to the models and econometric issues that occur when dealing with time series data. Applications of time series methods to economics and finance will be stressed. Students completing this class will be able to decompose time series into its constituent parts, apply the relevant econometric model to data, be able to understand and deal with underlying dynamic macroeconometric models and be able to estimate and interpret univariate and multivariate time series econometric models. Students will also be able to use estimated time series models for policy analysis and forecasting. Students will acquire competence in the tools and methods used in modern econometric research with a focus on theoretical knowledge, critical reasoning, problem solving, interpretation and evaluation. X-12 ARIMA and seasonal adjustment of macroeconomic series will also be learnt.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#instructional-method",
+    "href": "index.html#instructional-method",
+    "title": "Econometric Forecasting",
+    "section": "Instructional Method",
+    "text": "Instructional Method\nStructure – The course has 3 main parts: evaluating patterns using visualization, capturing trend and seasonality to model univariate and multivariate data, and learning each and every step by doing using R software. To remain in contact outside class, I shall mainly use discord and will not use any other platform for communication until and unless it is necessary.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#books",
+    "href": "index.html#books",
+    "title": "Econometric Forecasting",
+    "section": "Books",
+    "text": "Books\nMain books I will follow are :\n. . .\n\n\n\n\n\nForecasting: Practice and Principles\n\n\n\n\n\n\nApplied Econometrics Time Series\n\n\n\n\n\n\nDoing Economics: Selected Chapters",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#course-contents",
+    "href": "index.html#course-contents",
+    "title": "Econometric Forecasting",
+    "section": "Course contents",
+    "text": "Course contents\n\n\n\nWeek\nTitle\nTopics covered\nEssential reading\n\n\n\n\n1\nIntroduction to Macroeconomic Series(plotting with Excel and R)\nVisualizing and assessing four time series component\nChapter 1 of FPP3 and Doing Economics\n\n\n2\nExponential Smoothing\n\nExploring and visualizing time series\nSimple benchmark methods for forecasting\nDecomposition of Series\n\n\n\n\n\nConcept of dependence and independence\n\nMeasuring dependence in a time series: The autocovariance and autocorrelation functions\nThe partial autocorrelation function.\nEstimation of ACF and PACF.\nARMA, ARIMA, SARIMA model\n\n\n\n\n3\n\n\n\n\n\n4\n\nContinue\n\n\n\n5\nStatistical Forecasting\nAdvanced forecasting methods\nMeasuring forecast accuracy\nChoosing the best method\n\n\n\n7\nLabs\nLabs with Cement Production, M2, CPI and Sales Tax data\nApplication of all the concepts learnt so far\n\n\n7\nTrends and Nonstationarity\nStochastic vs Deterministic Trends\nCh4. Walter Ender Applied Econometrics\n\n\n8\nContinued\ncontinued\ncontinued\n\n\n9\nVAR, SVAR models\nVector Autoregression\nJEP paper VAR and its reproducibility\n\n\n10\ncontinued\ncontinued\n\n\n\n11\nCointegration\n\n\n\n\n12\nPanel Data\nLong Panel Data\nWith applications with R and learning web API data use\n\n\n13\nPanel Data Cointegration\n\nWDI and other public data sets\n\n\n14\nMachine Learning and Macroeconomic Forecasting\n\nML&macro forecasting\n\n\n15\nContinued",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#data-science",
+    "href": "index.html#data-science",
+    "title": "Econometric Forecasting",
+    "section": "Data Science",
+    "text": "Data Science\n\nYou go into data analysis with the tools you know, not the tools you need\nThe next 2-3 weeks are all about giving you the tools you need\n\nAdmittedly, a bit before you know what you need them for\n\nWe will extend them as we learn specific models",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#r",
+    "href": "index.html#r",
+    "title": "Econometric Forecasting",
+    "section": "R",
+    "text": "R\n\n\n\nFree and open source\nA very large community\n\nWritten by statisticians for statistics\nMost packages are written for R first\n\nCan handle virtually any data format\nMakes replication easy\nCan integrate into documents (with R markdown)\nR is a language so it can do everything\n\nA good stepping stone to learning other languages like Python",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#excel-or-stata-cant-do-this",
+    "href": "index.html#excel-or-stata-cant-do-this",
+    "title": "Econometric Forecasting",
+    "section": "Excel (or Stata) Can’t Do This",
+    "text": "Excel (or Stata) Can’t Do This\n\nCodeOutput\n\n\n\nggplot(data = gapminder, \n       aes(x = gdpPercap,\n           y = lifeExp,\n           color = continent))+\n  geom_point(alpha=0.3)+\n  geom_smooth(method = \"lm\")+\n    scale_x_log10(breaks=c(1000,10000, 100000),\n                  label=scales::dollar)+\n    labs(x = \"GDP/Capita\",\n         y = \"Life Expectancy (Years)\")+\n  facet_wrap(~continent)+\n  guides(color = F)+\n  theme_light()\n\n\n\n\n\nWarning: The `&lt;scale&gt;` argument of `guides()` cannot be `FALSE`. Use \"none\" instead as\nof ggplot2 3.3.4.\n\n\n`geom_smooth()` using formula = 'y ~ x'",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#or-this",
+    "href": "index.html#or-this",
+    "title": "Econometric Forecasting",
+    "section": "Or This",
+    "text": "Or This\n\nInputOutput\n\n\nThe average GDP per capita is ` r dollar(mean(gapminder$gdpPercap)) ` with a standard deviation of ` r dollar(sd(gapminder$gdpPercap)) `.\n\n\nThe average GDP per capita is $7,215.33 with a standard deviation of $9,857.45.",
     "crumbs": [
       "Home"
     ]
