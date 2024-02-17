@@ -3,15 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "Course Title"
+  title: "Macroeconomic Forecasting"
   sidebar:
     background: primary
-    # logo: "images/logo.png"
+    logo: "images/forecasting-logo.png"
     pinned: true
     align: center
     tools:
       - icon: github
-        href: https://github.com/Pakillo/quarto-course-website-template
+        href: https://github.com/zahedasghar/
         text: GitHub
     style: docked
     contents:
@@ -21,7 +21,7 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
-      - href: https://github.com/Pakillo/quarto-course-website-template/discussions
+      - href: https://discord.com/channels/1208013710463864842/1208013711051194409
         text: Forum
 
 format:

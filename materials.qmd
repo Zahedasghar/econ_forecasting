@@ -6,3 +6,23 @@ title: "Course Materials"
 
 [Slides](slides/)
 
+[Introduction to Forecasting](https://zahidasghar.com/timeseries/forecasting#/title-slide) 
+
+[Nonstationary](https://zahidasghar.com/timeseries/nonstationary#/title-slide) 
+
+[ARIMA](https://zahidasghar.com/timeseries/ARIMA) 
+
+[Unit Root Testing](https://zahidasghar.com/timeseries/Unit-root-testing#/title-slide) 
+
+
+[Spurious Regression](https://zahidasghar.com/timeseries/spurious_regression) 
+
+
+[Consumption](https://zahidasghar.com/timeseries/consumption) 
+
+
+[VAR](https://zahidasghar.com/timeseries/VAR#/title-slide) 
+
+[VecAR](https://zahidasghar.com/timeseries/VecAR#/title-slide)  
+
+[Cointegration](https://zahidasghar.com/timeseries/cointegration#/title-slide)
